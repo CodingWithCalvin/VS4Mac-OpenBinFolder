@@ -2,7 +2,7 @@
 
 Open Bin Folder is an extension for Visual Studio for Mac that, when triggered on a project, opens that project's bin folder in Finder.
 
-Read more on the [release announcement I posted to my blog](https://www.codingwithcalvin.net/introducing-the-super-clean-visual-studio-for-mac-extension/)
+Read more on the [release announcement I posted to my blog](https://www.codingwithcalvin.net/introducing-the-open-bin-folder-visual-studio-for-mac-extension/)
 
 ## Installation
 
