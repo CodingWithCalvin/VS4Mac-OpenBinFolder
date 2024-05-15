@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<ExtensionModel>
+    <Extension path = "/MonoDevelop/Ide/Commands">
+        <Command id = "CodingWithCalvin.OpenBinFolder.CommandEnum.OpenBinFolder"
+            _label = "Open Bin Folder"
+            defaultHandler = "CodingWithCalvin.OpenBinFolder.OpenBinFolderCommand" />
+    </Extension>
+
+    <Extension path="/MonoDevelop/Ide/ContextMenu/ProjectPad">
+        <CommandItem id="CodingWithCalvin.OpenBinFolder.CommandEnum.OpenBinFolder" />
+    </Extension>
+</ExtensionModel>

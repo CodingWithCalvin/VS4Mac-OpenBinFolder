@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodingWithCalvin.OpenBinFolder.VS4Mac
+namespace CodingWithCalvin.OpenBinFolder
 {
 	public enum CommandEnum
 	{

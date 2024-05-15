@@ -4,7 +4,7 @@ using MonoDevelop.Ide;
 using MonoDevelop.Projects;
 using System.Diagnostics;
 
-namespace CodingWithCalvin.OpenBinFolder.VS4Mac
+namespace CodingWithCalvin.OpenBinFolder
 {
 	public class OpenBinFolderCommand : CommandHandler
 	{
